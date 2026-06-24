@@ -5,7 +5,6 @@ import Icon from '@/components/ui/icon';
 const links = [
   { label: 'Услуги', href: '#services' },
   { label: 'Портфолио', href: '#portfolio' },
-  { label: 'Кейсы', href: '#cases' },
   { label: 'Сравнение', href: '#compare' },
   { label: 'О специалисте', href: '#about' },
 ];
