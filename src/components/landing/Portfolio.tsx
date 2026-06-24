@@ -8,7 +8,7 @@ const works = [
     desc: 'Витрина с 400+ товарами, фильтрами по размерам и интеграцией складского учёта.',
   },
   {
-    img: 'https://cdn.poehali.dev/projects/b24f82fc-ea32-4e36-bd69-931d6278f2d6/files/327e3964-eb7a-4cc3-9e89-5800efd3d626.jpg',
+    img: 'https://cdn.poehali.dev/projects/b24f82fc-ea32-4e36-bd69-931d6278f2d6/bucket/737c8cfa-66af-4b05-8b87-99bfc10bc9b9.png',
     title: 'Магазин косметики',
     tag: 'Яндекс Кит',
     desc: 'Премиальное оформление, подбор по типу кожи и подписочная модель продаж.',
