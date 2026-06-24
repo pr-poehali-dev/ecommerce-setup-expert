@@ -2,7 +2,7 @@ import Icon from '@/components/ui/icon';
 
 const works = [
   {
-    img: 'https://cdn.poehali.dev/projects/b24f82fc-ea32-4e36-bd69-931d6278f2d6/files/3c50576c-cd7e-4df0-9e65-8346a83daba3.jpg',
+    img: 'https://cdn.poehali.dev/projects/b24f82fc-ea32-4e36-bd69-931d6278f2d6/bucket/d3214143-2adb-4f5e-a777-62d80e16bbe3.png',
     title: 'Fashion-бренд одежды',
     tag: 'Яндекс Кит',
     desc: 'Витрина с 400+ товарами, фильтрами по размерам и интеграцией складского учёта.',
