@@ -16,10 +16,7 @@ const Hero = () => {
 
       <div className="container relative grid lg:grid-cols-2 gap-12 items-center">
         <div className="animate-fade-up">
-          <div className="inline-flex items-center gap-2 glass rounded-full px-4 py-1.5 text-sm font-medium text-primary mb-6">
-            <span className="w-2 h-2 rounded-full bg-accent animate-pulse" />
-            Официальный партнёр по запуску на Яндекс Кит
-          </div>
+          <div className="inline-flex items-center gap-2 glass rounded-full px-4 py-1.5 text-sm font-medium text-primary mb-6">НУЖЕН ИНТЕРНЕТ-МАГАЗИН?</div>
 
           <h1 className="text-4xl md:text-6xl font-extrabold leading-[1.05] mb-6">
             Создаю интернет-магазины, которые{' '}
